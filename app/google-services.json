@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998690393417",
+    "firebase_url": "https://demofcm-5bf04.firebaseio.com",
+    "project_id": "demofcm-5bf04",
+    "storage_bucket": "demofcm-5bf04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998690393417:android:96e2efd84c0d665bdd5e98",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998690393417-s714khqdn76linj7lnfktl7b2fbda481.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAmDK9dSOVXoJsPHVhHpMxNOycYxXy_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998690393417-s714khqdn76linj7lnfktl7b2fbda481.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
